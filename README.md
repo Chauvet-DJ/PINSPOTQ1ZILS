@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.05 - Pinspot Q1Z ILS](https://github.com/Chauvet-DJ/PINSPOTQ1ZILS/blob/44b9f337b6a7bc41ff6e4855a75626806d6a6086/Firmware/V1.05.zip)
+- Remove "Slave mode" from display when in DMX mode
+
 [V1.03 - Pinspot Q1Z ILS](https://github.com/Chauvet-DJ/PINSPOTQ1ZILS/blob/2cc3e127981c8ce7895008c2480ad77994257241/Firmware/V1.03.zip)
 - Released initial software version
 
